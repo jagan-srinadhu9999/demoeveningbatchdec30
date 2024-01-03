@@ -1,1 +1,2 @@
 This is new file and this file contains demo data for ec2 instance linux server and installed git
+without adding stating area directly commit this demo.txt file using git commit -a -m "dirct commit"
